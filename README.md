@@ -48,7 +48,6 @@ export default function RootLayout({
         <main>{children}</main>
         <footer className="bg-navy-900 text-white py-8 mt-16">
           <div className="container mx-auto px-4 text-center">
-            <p>&copy; 2023 PhotoMaster. All rights reserved.</p>
           </div>
         </footer>
       </body>
